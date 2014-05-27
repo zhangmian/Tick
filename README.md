@@ -1,13 +1,13 @@
-tick
+Tick
 ====
 
-tick.js
+Tick.js
 
  a lightweight animation library for javascript
 
 # 1.简介
 
- tick.js -- 轻量级的动画库
+ Tick.js -- 轻量级的动画库
 
 #2.兼容性
 
