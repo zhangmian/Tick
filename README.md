@@ -1,8 +1,7 @@
-Tick
-轻量级运动库
+
 ====
 
-Tick.js
+#Tick.js
 
  a lightweight animation library for javascript
 
