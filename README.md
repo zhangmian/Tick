@@ -5,17 +5,17 @@ tick.js
 
  a lightweight animation library for javascript
 
- # 1.简介
+# 1.简介
 
  tick.js -- 轻量级的动画库
 
- # 2.兼容性
+#2.兼容性
 
  IE6+、Chrome、Firefox、Safari、Opera等浏览器
 
- # 3.使用
+#3.使用
 
- ## 参数
+## 参数
 ````
 		Tick.to(element,props,type,speed,callback.callbackParams)
 ````
